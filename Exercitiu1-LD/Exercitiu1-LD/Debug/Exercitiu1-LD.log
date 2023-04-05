@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Ada\Desktop\An_3_sem_2\SDD\Exercitiu1-LD\Exercitiu1-LD\Source.c(17,25): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Ada\Desktop\An_3_sem_2\SDD\Exercitiu1-LD\Exercitiu1-LD\Source.c(18,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Ada\Desktop\An_3_sem_2\SDD\Exercitiu1-LD\Exercitiu1-LD\Source.c(161,11): warning C4101: 'l': unreferenced local variable
+  Exercitiu1-LD.vcxproj -> C:\Users\Ada\Desktop\An_3_sem_2\SDD\Exercitiu1-LD\Debug\Exercitiu1-LD.exe

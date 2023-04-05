@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Ada\Desktop\An_3_sem_2\SDD\Exercitiu1\Exercitiu1\Source.c(18,25): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Ada\Desktop\An_3_sem_2\SDD\Exercitiu1\Exercitiu1\Source.c(19,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Exercitiu1.vcxproj -> C:\Users\Ada\Desktop\An_3_sem_2\SDD\Exercitiu1\Debug\Exercitiu1.exe

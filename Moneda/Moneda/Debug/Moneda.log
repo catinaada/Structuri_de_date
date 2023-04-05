@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\Ada\Desktop\An_3_sem_2\SDD\Moneda\Moneda\Source.c(15,30): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Ada\Desktop\An_3_sem_2\SDD\Moneda\Moneda\Source.c(16,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Ada\Desktop\An_3_sem_2\SDD\Moneda\Moneda\Source.c(172,70): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Ada\Desktop\An_3_sem_2\SDD\Moneda\Moneda\Source.c(173,70): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Ada\Desktop\An_3_sem_2\SDD\Moneda\Moneda\Source.c(174,72): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Ada\Desktop\An_3_sem_2\SDD\Moneda\Moneda\Source.c(89): warning C4715: 'greutateMaxima': not all control paths return a value
+  Moneda.vcxproj -> C:\Users\Ada\Desktop\An_3_sem_2\SDD\Moneda\Debug\Moneda.exe
