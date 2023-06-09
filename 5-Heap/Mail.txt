@@ -1,0 +1,13 @@
+6
+Urgent
+4
+Interes
+3
+Glovo
+8
+Bolt
+7
+PizzaHut
+6
+Taxi
+2
